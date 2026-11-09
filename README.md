@@ -1,2 +1,2 @@
- hiii , I learning python and  git
+ hiii , I am learning python and  git
  
